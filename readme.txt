@@ -1,1 +1,1 @@
-Git is a distributed 
+Git 
